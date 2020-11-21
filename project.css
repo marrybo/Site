@@ -419,6 +419,9 @@ footer a:hover {
     .mobil{
         display: none;
     }
+    .flex-container{
+        display: none;
+    }
     .box_1{
         display: none;
     }
