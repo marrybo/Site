@@ -419,6 +419,15 @@ footer a:hover {
     .mobil{
         display: none;
     }
+    .box_1{
+        display: none;
+    }
+    .box_2{
+        display: none;
+    }
+    .box_3{
+         display: none;
+    }
 }
 
 @media only screen and (max-width: 720px){
